@@ -26,6 +26,5 @@ public class Step04Operators {
         System.out.println("isTenGreaterThanTwenty: " + isTenGreaterThanTwenty);
         System.out.println("isTenEqualToTwenty: " + isTenEqualToTwenty);
         System.out.println("isTenDifferentToTwenty: " + isTenDifferentToTwenty);
-
     }
 }
