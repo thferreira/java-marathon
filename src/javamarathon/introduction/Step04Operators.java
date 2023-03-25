@@ -12,7 +12,7 @@ public class Step04Operators {
 
         // %
 
-        int rest = 21 % 6;
+        int rest = 21 % 7;
         System.out.println(rest);
 
         // < > <= >= == !=
