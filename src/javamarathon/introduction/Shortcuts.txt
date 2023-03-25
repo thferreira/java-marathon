@@ -1,0 +1,4 @@
+
+ctrl + shift + f10 = run the code!
+psvm =  public static void main(String[] args){}
+sout + tab = System.out.println()
